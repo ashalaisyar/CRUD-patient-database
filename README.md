@@ -11,7 +11,5 @@ Application of python CRUD Function for patient database created by Amartiya Sha
 4. Delete : Function provides to remove patient database based on ID patient.
 
 ## Project Organization
-├── README.md          <- README for developers using this project.
-
-│
-├── mainsource.py          <- Source code for use in this project. 
+README.md          -> README for developers using this project.
+mainsource.py      -> Source code for use in this project. 
